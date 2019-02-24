@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "QBImagePickerControllerNew"
-  s.version          = "3.4.0"
+  s.version          = "3.6.0"
   s.summary          = "A clone of UIImagePickerController with multiple selection support."
   s.homepage         = "https://github.com/laoyuegou/QBImagePicker"
   s.license          = "MIT"
